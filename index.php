@@ -1,3 +1,3 @@
 <?php
-die ("Hello World");
+die ("Hello Anton");
 
